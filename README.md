@@ -1,2 +1,3 @@
 # hello-world
-first repository
+first repository on github
+readme changes
